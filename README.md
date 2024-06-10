@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [sqs-dlq-monitoring](https://github.com/EYssel/sqs-dlq-monitoring)
 
-- 🌱 I’m currently learning **React, Golang**
+- 🌱 I’m currently learning **React, Golang, ServiceNow**
 
 - 👯 I’m looking to collaborate on [open-constructs](https://github.com/open-constructs/aws-cdk-library)
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EYssel](https://github.com/EYssel)
 
-- 📝 I regularly write articles on [https://medium.com/@estianyssel](https://medium.com/@estianyssel)
+- 📝 My articles are viewable on [https://medium.com/@estianyssel](https://medium.com/@estianyssel)
 
 - 💬 Ask me about **Cloud Architecture, AWS Best Practices**
 
